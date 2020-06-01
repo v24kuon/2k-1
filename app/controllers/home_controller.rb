@@ -1,5 +1,4 @@
-class Controller < ApplicationController
-  def top
-  	@name = 'Ninomiya'
-  end
+class HomeController < ApplicationController
+	def top
+	end
 end
